@@ -15,7 +15,7 @@ body {
     background-color: #352b24;
     color: #d3c5c5;
 }
-.oparator {
+.oparator, .equal {
     color: #d3c5c5;
     background-color: rgb(255, 153, 0);
 }
